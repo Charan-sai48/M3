@@ -41,6 +41,7 @@ void calculateEMI(float principal, float annualRate, int tenureMonths) {
 }
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/58edb7bf-2c38-4d43-b1a1-eb6129ade4f5)
 
 
 
@@ -89,6 +90,7 @@ int main() {
 }
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/a5b42ddc-4b86-4a69-89af-ef2162d5a503)
 
 
 
@@ -132,6 +134,7 @@ int main() {
 }
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/7adfd93c-dd9a-4315-b478-afa4c1af0f22)
 
 
 
@@ -183,6 +186,7 @@ int main() {
 }
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/fe289dfb-1f34-41ab-bb5a-facd4b74ed7b)
 
 
 
@@ -241,7 +245,8 @@ int main() {
 }
 ```
 ## Output:
- 
+ ![image](https://github.com/user-attachments/assets/a629cc21-b5bf-4ca6-a2fc-3508d9af4e70)
+
 
 
 ## Result:
